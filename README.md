@@ -48,7 +48,8 @@ Una vez aprobado por adminitrador si abrirmos el modal nos aparece un boton de d
 
 Si le damos a descargar , se nos descargará.
 
-![image](https://github.com/FA90N/MARKETPLACE/assets/123337463/4d3d3d6f-b24a-4804-906d-74069b2d93ec)
+![image](https://github.com/FA90N/MARKETPLACE/assets/123337463/574ac824-bb50-4c03-a239-ce07f5aaeb13)
+
 
 En la biblioteca nos muestra un listado con contenidos que ya estan aprobados por el administrador con boton descargar y los que no, con un mensaje "Pendiente"
 
